@@ -38,3 +38,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+data/
+.vercel
+public/company-logo.png
+service_acc.json
+src/app/favicon.ico
